@@ -1,0 +1,183 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+#menu
+{
+    text-align: center;
+    background-color: #212121;
+    height: 375px;
+}
+
+body
+{
+    background-color: salmon;
+}
+
+#boxboutton
+{
+    text-align: center;
+    border-top: 1px solid white;
+    margin-top: 16px;
+}
+#boutton1, #boutton2, #boutton3
+{
+    display:inline-block;
+    padding: 15px;
+    margin-top: -14px;
+    color: white;
+}
+#boutton1:hover, #boutton2:hover, #boutton3:hover
+{
+    background-color: #343232;
+    cursor: pointer;
+}
+a
+{
+    all: unset;
+}
+a:hover
+{
+    all: unset;
+}
+
+body
+{
+    background-image: url('../ressources/background.svg');
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    width: auto;
+}
+
+
+
+
+.Sypnosie
+{
+    padding-top: 33px;
+}
+.Sypnosie1
+{
+    padding-top: 1.5em;
+}
+.Sypnosie2
+{
+    padding-top: 2.5em;
+}
+.Sypnosie3
+{
+    padding-top: 1em;
+}
+.Sypnosie4
+{
+    padding-top: 1em;
+}
+.Sypnosie5
+{
+    padding-top: 1em;
+}
+
+#min1
+{
+    height: 300px;
+    width: 250px;
+    margin-top: 5em;
+    border: 2px solid rgb(0, 0, 0);
+}
+#managa1content
+{
+    color: black;
+    padding-top: 10px;
+}
+
+#min2
+{
+    height: 300px;
+    width: 250px;
+    margin-top: 5em;
+    border: 2px solid rgb(0, 0, 0);
+}
+#managa2content
+{
+    color: black;
+    padding-top: 10px;
+}
+
+#min3
+{
+    height: 300px;
+    width: 250px;
+    margin-top: 5em;
+    border: 2px solid rgb(0, 0, 0);
+}
+#managa3content
+{
+    color: black;
+    padding-top: 10px;
+}
+
+#min4
+{
+    height: 340px;
+    width: 250px;
+    margin-top: 5em;
+    border: 2px solid rgb(0, 0, 0);
+}
+#managa4content
+{
+    color: black;
+    padding-top: 10px;
+}
+
+#min5
+{
+    height: 315px;
+    width: 250px;
+    margin-top: 5em;
+    border: 2px solid rgb(0, 0, 0);
+}
+#managa5content
+{
+    color: black;
+    padding-top: 10px;
+}
+
+#min6
+{
+    height: 340px;
+    width: 250px;
+    margin-top: 5em;
+    border: 2px solid rgb(0, 0, 0);
+}
+#managa6content
+{
+    color: black;
+    padding-top: 10px;
+}
+
+.contenus
+{
+    text-align: center;
+    border: black solid 1px;
+    border-top: 0;
+}
+
+#Banner
+{
+    background-color: #212121;
+    color: white; 
+    padding-bottom: 5px;
+}
+
+.checked {
+    color: orange;
+  }
+
+h1
+{
+    text-align: center;
+    padding-top: 50px;
+}
