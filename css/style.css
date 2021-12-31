@@ -11,25 +11,21 @@
     height: 375px;
 }
 
-body
-{
-    background-color: salmon;
-}
-
 #boxboutton
 {
-    text-align: center;
     border-top: 1px solid white;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 16px;
 }
-#boutton1, #boutton2, #boutton3
+#boutton1, #boutton2, #boutton3, #boutton4
 {
     display:inline-block;
     padding: 15px;
     margin-top: -14px;
     color: white;
 }
-#boutton1:hover, #boutton2:hover, #boutton3:hover
+#boutton1:hover, #boutton2:hover, #boutton3:hover, #boutton4:hover
 {
     background-color: #343232;
     cursor: pointer;
@@ -51,9 +47,15 @@ body
     height: 100vh;
     width: auto;
 }
+#imageee:hover
+{
+    cursor: pointer;
+}
 
-
-
+a:hover
+{
+    cursor: pointer;
+}
 
 .Sypnosie
 {

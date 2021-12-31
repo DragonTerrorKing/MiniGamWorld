@@ -1,0 +1,56 @@
+#menu
+{
+    text-align: center;
+    background-color: #212121;
+    height: 375px;
+}
+
+#boxboutton
+{
+    text-align: center;
+    border-top: 1px solid white;
+    margin-top: 16px;
+}
+#boutton1, #boutton2, #boutton3, #boutton4
+{
+    display:inline-block;
+    padding: 15px;
+    margin-top: -14px;
+    color: white;
+}
+#boutton1:hover, #boutton2:hover, #boutton3:hover, #boutton4:hover
+{
+    background-color: #343232;
+    cursor: pointer;
+}
+#imageee:hover
+{
+    cursor: pointer;
+}
+a
+{
+    all: unset;
+}
+a:hover
+{
+    all: unset;
+}
+
+body
+{
+    background-image: url('../../ressources/background.svg');
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    width: auto;
+}
+
+#text
+{
+    text-align: center;
+    color: white;
+    margin-top: 200px;
+    background-color: #212121;
+}
+
+    
