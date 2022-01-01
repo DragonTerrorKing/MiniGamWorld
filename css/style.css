@@ -182,4 +182,10 @@ h1
 {
     text-align: center;
     padding-top: 50px;
+    color: white;
+}
+
+h2, p
+{
+    color: white;
 }
