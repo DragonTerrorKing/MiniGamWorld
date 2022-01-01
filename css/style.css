@@ -41,7 +41,7 @@ a:hover
 
 body
 {
-    background-image: url('../ressources/background.svg');
+    background-image: url('../ressources/background.png');
     background-size: cover;
     background-attachment: fixed;
     height: 100vh;
